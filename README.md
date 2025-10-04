@@ -29,7 +29,7 @@
 ### 📂 Featured Projects
 
 🍽️ **[Southern Bites Restaurant](https://github.com/MEGATRON-X-49/southern-bites-website)** - Responsive restaurant website  
-*HTML | CSS | JavaScript*
+*HTML | CSS*
 
 🚀 **Coming Soon:**
 - AI Content Generator (React + Gemini API)
